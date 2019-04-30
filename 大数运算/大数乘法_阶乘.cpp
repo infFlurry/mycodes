@@ -1,4 +1,3 @@
-#if 1
 /*
 	编写函数，返回N的阶乘对应的十进制字符串，N>=1，N<=10000000
 */
@@ -122,5 +121,3 @@ int main()
 	cout << fun.Factorial(input) << endl;
 	return 0;
 }
-
-#endif

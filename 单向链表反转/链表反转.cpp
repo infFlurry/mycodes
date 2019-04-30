@@ -1,4 +1,3 @@
-#if 1
 /*
 	单向链表，反转。尽可能少的减少额外空间使用。
 
@@ -99,4 +98,3 @@ int main()
 	LF.destroyList(list2);
 	return 0;
 }
-#endif
